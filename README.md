@@ -51,18 +51,3 @@ python main.py
 /main.py        # Script principal
 /README.md      # Este arquivo
 ```
-
----
-
-## Boas práticas
-
-- Use ambiente virtual (`venv`) para isolar dependências  
-- Não faça commit da pasta do ambiente virtual  
-- Mantenha seu `.gitignore` atualizado para ignorar arquivos desnecessários
-
----
-
-## Contato
-
-Desenvolvido por Caro senhor supremo de todo universo existe perante a todas as entidade onipresentes e cientes  
-Para dúvidas ou contribuições: [Seu e-mail ou GitHub]
